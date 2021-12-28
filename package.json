@@ -2,14 +2,14 @@
     "name": "honkit-plugin-styles-sass",
     "description": "Use SASS stylesheets instead of CSS",
     "main": "index.js",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "engines": {
         "honkit": ">=3.0.0"
     },
     "dependencies": {
-        "q": "^1.0.0",
-        "node-sass": "^7.0.1",
-        "lodash": "^4.0.0"
+        "lodash": "^4.0.0",
+        "node-sass": "^7.0.0",
+        "q": "^1.0.0"
     },
     "homepage": "https://github.com/skytect/honkit-plugin-styles-sass",
     "repository": {
