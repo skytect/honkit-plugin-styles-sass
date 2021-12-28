@@ -1,23 +1,23 @@
 {
-    "name": "@adiwg/honkit-plugin-styles-sass",
+    "name": "honkit-plugin-styles-sass",
     "description": "Use SASS stylesheets instead of CSS",
     "main": "index.js",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "engines": {
-        "honkit": ">=3.5.0"
+        "honkit": ">=3.0.0"
     },
     "dependencies": {
-        "q": "^1.5.1",
-        "node-sass": "4.14.1",
-        "lodash": "^4.17.0"
+        "q": "^1.0.0",
+        "node-sass": "^7.0.1",
+        "lodash": "^4.0.0"
     },
-    "homepage": "https://github.com/adiwg/plugin-styles-sass",
+    "homepage": "https://github.com/skytect/plugin-styles-sass",
     "repository": {
         "type": "git",
-        "url": "https://github.com/adiwg/plugin-styles-sass.git"
+        "url": "https://github.com/skytect/plugin-styles-sass.git"
     },
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/adiwg/plugin-styles-sass/issues"
+        "url": "https://github.com/skytect/plugin-styles-sass/issues"
     }
 }
